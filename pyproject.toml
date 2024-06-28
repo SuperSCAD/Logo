@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Super-SCAD-Logo"
-version = "0.0.0"
+version = "0.1.0"
 description = "Generates the logo of SuperSCAD"
 authors = ["P.R. Water <p.r.water@setbased.nl>"]
 license = "MIT"
