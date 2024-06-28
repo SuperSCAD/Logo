@@ -1,0 +1,2 @@
+# Logo
+SuperSCAD's logo
